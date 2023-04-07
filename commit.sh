@@ -1,7 +1,7 @@
 #!/bin/bash 
 datatime_now=`date "+%Y-%m-%d %H:%M"`
-git config --global user.name "YOUR_NAME"
-git config --global user.email "YOUR_EMAIL"
+git config --global user.name "Yuriy4444"
+git config --global user.email "y140483@gmail.com"
 git add *
 git commit -m "$datatime_now"
 git branch -M main
